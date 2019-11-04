@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">对话框</string>
+    <string name="button">提示</string>
+    <string name="button2">登录</string>
+</resources>
